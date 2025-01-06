@@ -1,3 +1,4 @@
+// Another way of SubArray program And Counts the SubArrays
 class subArrayCount
 {
 	public static void main(String []sp)
