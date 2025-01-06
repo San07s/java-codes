@@ -17,10 +17,14 @@ class string_3_creation
 		String s2=new String("Santhosh");
 		StringBuffer s3=new StringBuffer("Santhosh");
 		StringBuilder s4=new StringBuilder("Santhosh");
+
 		
 		System.out.println(s1);
 		System.out.println(s2);
 		System.out.println(s3);
 		System.out.println(s4);
+
+		//Length of String 
+	        System.out.println(s1.length());
 	}
 }
