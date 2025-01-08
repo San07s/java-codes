@@ -6,7 +6,7 @@
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 /*
-Its Method hiding, why it is method hiding, because having static methods and same method name.
+Its Method hiding or also called method shadowing, why it is method hiding or shadowing, because having static methods and same method name.
 
 class A
 {
