@@ -2,7 +2,7 @@
 
 // * Any variable prefix with final it is called as final variable.
 // * We can't re-assign final variable or can't change.
-
+// * We can inherit final variable but can't modify
 /*
 <<<Can we re-assingn final variable ? [No]>>>
 
@@ -40,7 +40,7 @@ class finalVariable
 */
 
 // [We can declare final static variable and final instance variable with help of Multi line initializer.]
-
+//  * We can inherit final variable but can't modify.
 
 class finalVariable
 {
