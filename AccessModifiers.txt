@@ -1,0 +1,51 @@
+/*
+Access Modifiers
+================
+
+1.Private
+
+* Private members we can access only with in the Class.
+* We can't access out side class also and as well as package.
+
+2.Default
+
+* Default members we can access with in the class and with in the package.
+* we can't access out side the package.
+
+3.Protected
+
+* Protected members we can access with in the class and with in the package.
+* we can access protected members outside the package with help of child class object creation.
+
+4.Public
+
+* public members we can access all places but outside the package we should import 
+  EX:import packageName.className;
+  
+  
+  
+Packages in Java:
+================
+
+* Package is nothing but it is a folder.
+* It is used to : 
+                 > Easy to access
+				 > Code Maintanence
+				 > Code Re-Usability
+				 > Avoid Naming conflicts
+
+In Java Packages are two Types:
+                             
+							 1.Built-in-Package
+							 2.User defined Package
+							 
+Built in Package:
+  
+* These are the packages which already exists in java library.
+
+User Defined Package:
+
+* These are the packages which is created by the programmer for maintaining the code.
+
+
+*/
