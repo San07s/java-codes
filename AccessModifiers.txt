@@ -30,9 +30,9 @@ Packages in Java:
 * Package is nothing but it is a folder.
 * It is used to : 
                  > Easy to access
-				 > Code Maintanence
-				 > Code Re-Usability
-				 > Avoid Naming conflicts
+		 > Code Maintanence
+		 > Code Re-Usability
+		 > Avoid Naming conflicts
 
 In Java Packages are two Types:
                              
